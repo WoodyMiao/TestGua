@@ -1,5 +1,5 @@
-Template for the Read the Docs tutorial
-=======================================
+A test of Gua
+=============
 
 This GitHub template includes fictional Python library
 with some basic Sphinx docs.
