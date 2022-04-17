@@ -13,6 +13,27 @@ how to :ref:`installation` the project.
 
    This project is under active development.
 
+Bullet list:
+
+* apples
+* oranges
+* pears
+
+Numbered list:
+
+1. lather
+2. rinse
+3. repeat
+
+Nested lists:
+
+1. fruits
+  * apple
+  * banana
+2. vegetables
+  * carrot
+  * broccoli
+
 Contents
 --------
 
@@ -20,3 +41,5 @@ Contents
 
    usage
    api
+   
+   
